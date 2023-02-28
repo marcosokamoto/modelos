@@ -45,37 +45,21 @@ Semana
 
 Tópicos
 
-1
+1 HTML5 e CSS3
 
-HTML5 e CSS3
+2 JavaScript e jQuery
 
-2
+3 Bootstrap e outros frameworks front-end
 
-JavaScript e jQuery
+4 Node.js e Express
 
-3
+5 Banco de dados com MongoDB
 
-Bootstrap e outros frameworks front-end
+6  APIs RESTful
 
-4
+7-8 Desenvolvimento do projeto final
 
-Node.js e Express
-
-5
-
-Banco de dados com MongoDB
-
-6
-
-APIs RESTful
-
-7-8
-
-Desenvolvimento do projeto final
-
-9
-
-Deploy de aplicações web
+9 Deploy de aplicações web
 
 ## Avaliação
 
