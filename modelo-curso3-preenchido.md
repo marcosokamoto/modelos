@@ -1,21 +1,34 @@
-# Meus Cursos
+# Introdução ao Python
 
-Este repositório contém uma coleção de cursos que eu criei ou participei como aluno. Cada curso está organizado em sua própria pasta dentro do repositório.
+Este repositório contém todos os materiais e recursos necessários para o curso de Introdução ao Python.
 
-## Cursos Disponíveis
+## Sobre o Curso
 
-- [Introdução ao Python](introducao-ao-python/): Curso básico de introdução à linguagem Python.
-- [Desenvolvimento Web com Flask](desenvolvimento-web-com-flask/): Curso intermediário sobre desenvolvimento web utilizando Flask.
-- [Data Science com Python](data-science-com-python/): Curso avançado sobre ciência de dados com Python.
+Este é um curso básico de introdução à linguagem Python. Durante o curso, você aprenderá os fundamentos da linguagem, como variáveis, estruturas de controle de fluxo, funções e módulos.
+
+### Tópicos Abordados
+
+- Introdução à linguagem Python
+- Variáveis e tipos de dados
+- Operadores e expressões
+- Estruturas de controle de fluxo (if, while, for)
+- Funções e módulos
+
+### Pré-Requisitos
+
+- Conhecimento básico de programação
+- Instalação do Python 3.x
 
 ## Como Usar
 
-Para acessar um curso específico, basta navegar até a pasta correspondente ao curso. Dentro da pasta do curso, você encontrará arquivos e pastas adicionais com materiais do curso, como slides de apresentação, códigos, instruções e recursos úteis.
+1. Clone este repositório ou baixe o arquivo ZIP.
+2. Acesse a pasta do curso: `cd introducao-ao-python`.
+3. Siga as instruções contidas no arquivo `instrucoes.md`.
 
 ## Contribuindo
 
-Se você tiver alguma correção ou sugestão para um dos cursos, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+Se você tiver alguma correção ou sugestão para este curso, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
 ## Licença
 
-Este repositório é licenciado sob a licença [MIT](LICENSE).
+Este curso é licenciado sob a licença [MIT](LICENSE).
